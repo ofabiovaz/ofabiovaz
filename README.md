@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofabiovaz&label=Profile%20views&color=0e75b6&style=flat" alt="ofabiovaz" /> </p>
 
-- 🔭 I’m currently studyingon [PUC-SP](https://www.pucsp.br/graduacao/ciencia-de-dados-e-inteligencia-artificial)
+- 🔭 I’m currently studying in [PUC-SP](https://www.pucsp.br/graduacao/ciencia-de-dados-e-inteligencia-artificial)
 
 - 🌱 I’m currently learning **machine learning and neural network**
 
