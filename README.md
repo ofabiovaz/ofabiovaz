@@ -24,10 +24,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofabiovaz&hide=contribs,prs)
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofabiovaz&show_icons=true&locale=en&layout=compact" alt="ofabiovaz" /></p>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
